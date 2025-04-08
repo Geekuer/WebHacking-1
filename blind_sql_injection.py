@@ -2,6 +2,7 @@ import requests
 import string
 
 url = "https://b47bda01-bed6-420e-91a1-8bd138fd806c-00-13yryay7g98u4.sisko.replit.dev/login"
+# url = "http://127.0.0.1:5000/login"
 charset = string.ascii_letters + string.digits
 found = ""
 max_len = 20
